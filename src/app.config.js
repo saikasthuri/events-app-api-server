@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.2';
-    team = 'Team four';
+    team = 'Team four day two';
 }
 module.exports = AppConfig;
