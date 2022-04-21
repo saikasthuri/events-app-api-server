@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.2';
-    team = 'Team four day two';
+    team = 'Team four day two git commit';
 }
 module.exports = AppConfig;
